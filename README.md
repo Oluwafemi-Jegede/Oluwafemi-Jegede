@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Oluwafemi-Jegede
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning improving my data science skills, if you are looking for someone to collaborate with, I am your guy
-- 💞️ I’m looking to collaborate on Open Source Data Science projects
+- 👋 Hi, I’m @Femi
+- 👀 I’m interested in data engineering(real-time analytics and distributed computing) and machine learning
+- 💞️ I’m looking to collaborate on Open Source machine learning and real-time analytics projects
 - 📫 How to reach me jegede45@gmail.com
 
 <!---
